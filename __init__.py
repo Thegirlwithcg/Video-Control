@@ -3,8 +3,8 @@ bl_info = {
     "name": "Video Control",
     "description": "Add-on to control video speed and timeline settings in Blender VSE",
     "author": "Nichada Patthanawong",
-    "version": (0, 1, 1),
-    "blender": (4, 3, 0),
+    "version": (0, 1, 1),  # Tuple with three integers
+    "blender": (4, 2, 0),  # Compatible with Blender 4.2.0 or later
     "category": "Video Editing",
     "license": "GPL"
 }
